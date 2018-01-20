@@ -21,5 +21,5 @@ deploy:
   file: "./build/libs/JAlgoArena-Judge-*.zip"
   skip_cleanup: true
   on:
-    repo: spolnik/JAlgoArena-Judge
+    repo: skorzeniak/JAlgoArena-Judge
     tags: true
